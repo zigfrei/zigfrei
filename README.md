@@ -21,9 +21,9 @@
 
 ![codewars](https://www.codewars.com/users/zigfrei/badges/large)</h4>
  <h4 align="center">
- 
+<!-- 
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zigfrei&theme=dark)</h4>
-<!--
+
 **zigfrei/zigfrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
