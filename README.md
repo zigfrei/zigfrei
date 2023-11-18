@@ -1,6 +1,8 @@
 <!--### Всем привет 👋 -->
 <!-- <h2 align="center">Всем привет! Меня зовут <a href="https://github.com/zigfrei" target="_blank">Георгий</a>  -->
-[](images/1.jpeg)
+<p align="center">
+  <img src="images/1.jpeg" width="768" title="Hello">
+</p>
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
  <h3 align="center"> Изучаю веб разработку, со специализацией на фронтенде. Изучаю и работаю с : 
 <br>
