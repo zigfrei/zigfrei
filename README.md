@@ -1,29 +1,31 @@
 <!--### Всем привет 👋 -->
 <!-- <h2 align="center">Всем привет! Меня зовут <a href="https://github.com/zigfrei" target="_blank">Георгий</a>  -->
 <p align="center">
-  <img src="images/1.jpeg" width="768" title="Hello">
+  <img src="images/1.jpeg" width="1024" title="Hello">
 </p>
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
- <h3 align="center"> Изучаю веб разработку, со специализацией на фронтенде. Изучаю и работаю с : 
+ <h3 align="center"> Увлечен веб разработкой, со специализацией на фронтенде. Изучаю и работаю с : 
 <br>
+   <a href="https://www.linkedin.com/in/georgyrevazashvili/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  
  
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
- ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-</h3>
- 
- <h4 align="center"> Для подержания мозгйовой активности не забываем решать задачки </h4>
+ <!-- <h4 align="center"> Для подержания мозгйовой активности не забываем решать задачки </h4>
  <h4 align="center">
 
 ![codewars](https://www.codewars.com/users/zigfrei/badges/large)</h4>
- <h4 align="center">
+ <h4 align="center"> -->
 <!-- 
 ![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zigfrei&theme=dark)</h4>
 
