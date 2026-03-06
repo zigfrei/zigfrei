@@ -1,7 +1,7 @@
 <!--### Всем привет 👋 -->
 <!-- <h2 align="center">Всем привет! Меня зовут <a href="https://github.com/zigfrei" target="_blank">Георгий</a>  -->
 <p align="center">
-  <img src="2-tiny.jpeg" width="1024" title="Hello">
+  <img src="images/2-tiny.png" width="1024" title="Hello">
 </p>
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
  <h3 align="center"> Увлечен веб разработкой, со специализацией на фронтенде. Изучаю и работаю с : 
